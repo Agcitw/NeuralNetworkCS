@@ -1,0 +1,14 @@
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetwork.exe
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetwork.deps.json
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetwork.runtimeconfig.json
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetwork.runtimeconfig.dev.json
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetwork.dll
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\bin\Debug\netcoreapp3.1\NeuralNetwork.pdb
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.AssemblyInfoInputs.cache
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.AssemblyInfo.cs
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.dll
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.pdb
+C:\Users\anton\RiderProjects\NeuralNetwork\NeuralNetwork\obj\Debug\netcoreapp3.1\NeuralNetwork.genruntimeconfig.cache

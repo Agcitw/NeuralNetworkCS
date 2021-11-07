@@ -1,0 +1,10 @@
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\bin\Debug\Viewer123.exe.config
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\bin\Debug\Viewer123.exe
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\bin\Debug\Viewer123.pdb
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\obj\Debug\Viewer123.csproj.AssemblyReference.cache
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\obj\Debug\Viewer123.Properties.Resources.resources
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\obj\Debug\Viewer123.csproj.GenerateResource.cache
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\obj\Debug\Viewer123.csproj.CoreCompileInputs.cache
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\obj\Debug\Viewer123.exe
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\obj\Debug\Viewer123.pdb
+C:\Users\anton\RiderProjects\NeuralNetwork\Viewer123\obj\Debug\Viewer123.Form1.resources
